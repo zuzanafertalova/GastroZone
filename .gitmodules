@@ -1,3 +1,6 @@
 [submodule "GastroZone-frontend-"]
 	path = GastroZone-frontend-
 	url = https://github.com/zuzanafertalova/GastroZone-frontend-.git
+[submodule "GastroZone-backend-"]
+	path = GastroZone-backend-
+	url = https://github.com/zuzanafertalova/GastroZone-backend-.git
